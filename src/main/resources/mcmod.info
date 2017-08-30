@@ -1,0 +1,15 @@
+[
+{
+  "modid": "pfm",
+  "name": "Paul's First Mod",
+  "description": "Paul's first shitty mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["The Dude"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
